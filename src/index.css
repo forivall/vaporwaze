@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 5pt;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+input {
+  border-radius: 2px;
+  border: 1px solid;
+  font-size: 16px;
+  text-align: center;
+  width: 100%;
+  padding: 5pt;
+  margin: 5pt 0;
+}
